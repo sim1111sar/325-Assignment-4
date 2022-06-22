@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Featured Items"
+        android:id="@+id/Featured"/>
+    <item android:title="Rating 4 or Higher"
+        android:id="@+id/rating"/>
+    <item android:title="Not Vegan"
+        android:id="@+id/notvegan"/>
+    <item android:title="Vegan"
+        android:id="@+id/vegan"/>
+
+</menu>
